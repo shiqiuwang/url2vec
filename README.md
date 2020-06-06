@@ -1,2 +1,2 @@
 # shiqiuwang.github.io
-master note
+将url进行数值化操作，提取出设定的特征
